@@ -1,0 +1,15 @@
+name: GalibWeb
+description: 'A simple bootstrap based theme'
+author: Galib
+homepage: 'https://galibweb.com'
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: GalibWeb
+    site_description:
+      label: Site description
+      comment: The global website description
+      default: A simple bootstrap based theme
